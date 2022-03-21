@@ -1,0 +1,7 @@
+2022-03-20 08:34:13.302 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-20 08:34:13.325 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44352/swagger/index.html - -
+2022-03-20 08:34:13.359 +07:00 [INF] Hosting environment: Development
+2022-03-20 08:34:13.359 +07:00 [INF] Content root path: C:\Users\HP\Desktop\New folder\VatTu02\Cao2
+2022-03-20 08:34:13.538 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44352/swagger/index.html - - - 200 - text/html;charset=utf-8 217.3268ms
+2022-03-20 08:34:13.706 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44352/swagger/v1/swagger.json - -
+2022-03-20 08:34:13.844 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44352/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 137.7026ms

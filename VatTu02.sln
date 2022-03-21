@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VatTu.Data", "Cao1\VatTu.Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VatTu.API", "Cao2\VatTu.API.csproj", "{91FA3C2E-1008-4469-A18E-1A110FA712FC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "auToMapper.Web", "auToMapper.Web\auToMapper.Web.csproj", "{F9843060-210C-4B7E-98F7-DF9A88CB40E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{91FA3C2E-1008-4469-A18E-1A110FA712FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91FA3C2E-1008-4469-A18E-1A110FA712FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91FA3C2E-1008-4469-A18E-1A110FA712FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9843060-210C-4B7E-98F7-DF9A88CB40E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9843060-210C-4B7E-98F7-DF9A88CB40E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9843060-210C-4B7E-98F7-DF9A88CB40E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9843060-210C-4B7E-98F7-DF9A88CB40E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
